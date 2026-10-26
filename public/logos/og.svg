@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="630" viewBox="0 0 1200 630">
+  <rect width="1200" height="630" fill="#e7efe9"/>
+  <rect x="70" y="145" width="1060" height="340" rx="36" fill="#14684a"/>
+  <rect x="110" y="210" width="86" height="86" rx="22" fill="#f7fbf8"/>
+  <path d="M128 253h50M153 228v50M140 240l26 26M166 240l-26 26" stroke="#14684a" stroke-width="4" stroke-linecap="round"/>
+  <text x="220" y="290" fill="#f7fbf8" font-family="Segoe UI, Avenir Next, Helvetica, sans-serif" font-size="92" font-weight="700">MacX</text>
+  <text x="220" y="360" fill="#d7efe4" font-family="Segoe UI, Avenir Next, Helvetica, sans-serif" font-size="32">Futbol maçları, Türkiye saati</text>
+</svg>
